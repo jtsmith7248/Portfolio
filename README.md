@@ -12,7 +12,7 @@ Guide to key projects referenced in resume.
 
 | **PROJECT** | **TOPIC** | **THEME** | **LINK** |
 |--------------|--------------|--------------|--------------|
-| **Project 1** | **Stacks & Queues, Backtracing** | **Super Mario: Save the Princess & Escape the Castle** | [**Spec**](https://jtsmith7248.github.io/EECS281_Project_Specs/Project1.pdf) |
+| **Project 1** | **Stacks & Queues, Backtracing** | **Super Mario: Save the Princess** | [**Spec**](https://jtsmith7248.github.io/EECS281_Project_Specs/Project1.pdf) |
 | **Project 2A** | **Utilizing Priority Queues** | **Star Wars: Battle Tracking** | [**Spec**](https://jtsmith7248.github.io/EECS281_Project_Specs/Project2A.pdf) |
 | **Project 2B** | **Building Priority Queues** | **N/A** | [**Spec**](https://jtsmith7248.github.io/EECS281_Project_Specs/Project2B.pdf) |
 | **Project 3** | **Hashing, Optimized Data Structure Usage** | **Reading & Processing System Logs** | [**Spec**](https://jtsmith7248.github.io/EECS281_Project_Specs/Project3.pdf) |
