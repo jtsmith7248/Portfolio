@@ -8,6 +8,14 @@ Guide to key projects referenced in resume.
 ## C++ Development - University of Michigan, Data Structures and Algorithms Projects: 
   EECS 281: *Data Structures and Algorithms* is built to give all students an in-depth understanding of essential algorithmic concepts and data structures through challenging multipart projects, completed individually while graded on both correctness & efficiency. Core concepts emphasized between each project include the implementation and optimization of stacks and queues, priority queues, hashing, and approximation, namely of the NP-Hard Traveling Salesperson Problem (TSP) using Minimum Spanning Trees (MSTs). I completed all projects for full credit, ahead of schedule and at double speed, as I took the course over the 8 week Spring semester in 2024. Due to university policy regarding academic integrity, I am unable to publically post my repositories for each project, but I am happy to present them upon request! 
 
+  |--------------|--------------|--------------|
+  | **Project 1** | **Stacks & Queues** | [**Spec**]() |
+  | **Project 2A** | **Utilizing Priority Queues** | [**Spec**]() |
+  | **Project 2B** | **Building Priority Queues** | [**Spec**]() |
+  | **Project 3** | **Hashing** | [**Spec**]() |
+  | **Project 4** | **TSP MST Approximation** | [**Spec**]() |
+  |--------------|--------------|--------------|
+
   ### Project 1 - Stacks & Queues [Spec]()
   ### Project 2A - Utilizing Priority Queues: [Spec]()
   ### Project 2B - Building Priority Queues: [Spec]()
