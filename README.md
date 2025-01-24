@@ -1,9 +1,18 @@
 # My Portfolio - Justin Smith
 Guide to key projects referenced in resume.
 
-## C++ Development : [Deck Of Cards Minigames](https://github.com/jtsmith7248/Deck-Of-Cards-Game_ITCS-2550-Final)
+## C++ Development - Associates Final Project: [Deck Of Cards Minigames](https://github.com/jtsmith7248/Deck-Of-Cards-Game_ITCS-2550-Final)
   This project connects to the [Deck of Cards API](https://www.deckofcardsapi.com/), send in the user's request for a given number of cards. They will get dealt back that many cards out of a deck of 52 or 54, depending on if the game requires jokers. Then, the user will play one of two mini games using these randomly dealt cards utilizing searching and sorting algorithms while maintaining basic principles of OOP. 
+  
 
+## C++ Development - University of Michigan, Data Structures and Algorithms Projects: 
+  EECS 281: *Data Structures and Algorithms* is built to give all students an in-depth understanding of essential algorithmic concepts and data structures through challenging multipart projects, completed individually while graded on both correctness & efficiency. Core concepts emphasized between each project include the implementation and optimization of stacks and queues, priority queues, hashing, and approximation, namely of the NP-Hard Traveling Salesperson Problem (TSP) using Minimum Spanning Trees (MSTs). I completed all projects for full credit, ahead of schedule and at double speed, as I took the course over the 8 week Spring semester in 2024. Due to university policy regarding academic integrity, I am unable to publically post my repositories for each project, but I am happy to present them upon request! 
+
+  ### Project 1 - Stacks & Queues [Spec]()
+  ### Project 2A - Utilizing Priority Queues: [Spec]()
+  ### Project 2B - Building Priority Queues: [Spec]()
+  ### Project 3 - Hashing: [Spec]()
+  ### Project 1 - TSP MST Approximation: [Spec]()
 
 ## Construct 3 : [Monster Mayhem Platformer](https://jtsmith7248.github.io/MonsterMayhem_Construct3/) | [Repository](https://github.com/jtsmith7248/MonsterMayhem_Construct3)
   Creating my first multilevel platformer in Construct 3 was an incredibly enriching experience. With over 100 events and 9 event sheets dedicated to managing game logic and layout, I gained a deep understanding of event-based programming and complex game mechanics. I learned how to design and organize said logic to handle multiple levels, player interactions, and dynamic environments efficiently. Overall, this project significantly enhanced my proficiency in game development and problem-solving. Hopefully not too bad for a first game! The second level is much more cohesive than the first. 
